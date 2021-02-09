@@ -1,0 +1,13 @@
+body {
+    background-image: url(/imagenes/wallpaper.jpg);
+    background-size: cover;
+}
+#contenidoPrincipal {
+    background-color: #000033;
+    border-radius: 1%;
+    margin: 15% 10%;
+}
+.navbar-brand, .nav-link {
+    text-decoration: none;
+    color: white;
+}
