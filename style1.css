@@ -1,13 +1,20 @@
 body {
     background-image: url(/imagenes/wallpaper.jpg);
-    background-size: cover;
+    
 }
 #contenidoPrincipal {
+
     background-color: #000033;
+    padding: 20px;
+    border: 5px solid blueviolet;
     border-radius: 1%;
-    margin: 15% 10%;
+    margin: 20%;
+    justify-content: center;
 }
 .navbar-brand, .nav-link {
     text-decoration: none;
     color: white;
+}
+#h1-1{
+    color: rgb(255red,255,255 0.5);
 }
